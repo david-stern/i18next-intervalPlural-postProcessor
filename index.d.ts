@@ -1,4 +1,5 @@
 import { PostProcessorModule } from "i18next";
 
-const intervalPlural: PostProcessorModule;
+declare const intervalPlural: PostProcessorModule;
+
 export default intervalPlural;
